@@ -1,0 +1,10 @@
+body {
+  background-color: #DBF9FC;
+  color: #b11e1e;
+  }
+
+.jumbotron {
+    background-image: url("/images/biopic.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
